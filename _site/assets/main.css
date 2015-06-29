@@ -16,7 +16,7 @@ a:link,
 a:visited,
 a:hover,
 a:active {
-  color: #DE2052;
+  color: #268703;
   text-decoration: none; }
 
 a:hover {
@@ -70,10 +70,10 @@ hr {
   padding: 10px !important; }
 
 #mc_embed_signup .button {
-  background-color: #DE2052 !important; }
+  background-color: #268703 !important; }
 
 #mc_embed_signup .button:hover {
-  background-color: #b11a42 !important; }
+  background-color: #185502 !important; }
 
 /*** footer ***/
 footer {
