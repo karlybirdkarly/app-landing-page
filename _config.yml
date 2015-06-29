@@ -4,11 +4,11 @@ url: http://kinzaapp.com
 # app configuration
 app:
   # an avatar or logo (optional)
-  logo: "/images/kinzalogo.png"
+  logo: "/images/logoKinza.png"
   # author will appear under the avatar (optional)
-  author: KinZa
+  author: Kinza
   # tagline will appear under the title (optional)
-  tagline: Быстрые рецепты на каждый день
+  tagline: Рецепты из того, что есть на кухне
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
